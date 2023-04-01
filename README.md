@@ -35,6 +35,7 @@ To address this issue, Marbon suggests integrating multiple email accounts to en
 <br>
 
 # 🎥 Demo Video Link
+[![Component 3](https://user-images.githubusercontent.com/102134838/229273874-3a50da0f-6771-4076-8eb2-57812b94f516.png)](https://www.youtube.com/watch?v=9U-Mc4IbrNk)
 
 <br>
 
